@@ -1,3 +1,3 @@
 # ngrx-tutorial
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-cdxyuf)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/ngrx-tutorial)
